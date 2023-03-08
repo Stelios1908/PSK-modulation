@@ -21,7 +21,7 @@ k = 1;
         
         
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%GRAY ENCONDING 8-PSK
+%GRAY ENCONDING 8-PSK%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     elseif M == 8
         for i = 1:3:length(x)
